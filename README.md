@@ -1,7 +1,7 @@
 # awesome-causal-inference-literature
 
 # General Introductory Causal Inference
-## (Potential Outcomes, DAGs, Identification, etc.)
+*(Potential Outcomes, DAGs, Identification, etc.)*
 
 # Regression Adjustment
 
