@@ -25,6 +25,9 @@
 
 # Instrumental Variables
 
+# Non-Linear Modeling
+- [Relaxing Assumptions, Improving Inference: Integrating Machine Learning and the Linear Regression(2023](https://www.cambridge.org/core/journals/american-political-science-review/article/relaxing-assumptions-improving-inference-integrating-machine-learning-and-the-linear-regression/52F06EF68EB20670B6CD1919C3C04D25)
+
 # Experimental Design
 
 # Double Machine Learning
