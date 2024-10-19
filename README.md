@@ -30,6 +30,8 @@
 - [Relaxing Assumptions, Improving Inference: Integrating Machine Learning and the Linear Regression(2023](https://www.cambridge.org/core/journals/american-political-science-review/article/relaxing-assumptions-improving-inference-integrating-machine-learning-and-the-linear-regression/52F06EF68EB20670B6CD1919C3C04D25)
 
 # Experimental Design
+- [When Natural Experiments Are Neither Natural nor Experiments (2012)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/when-natural-experiments-are-neither-natural-nor-experiments/E8A67829C2EEBC429CDD671B4C9313F9)
+- [Are Survey Experiments Externally Valid? (2010)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/are-survey-experiments-externally-valid/7233B1EF4DD36030A0BC19380AEBCDFA)
 
 # Double Machine Learning
 
@@ -51,6 +53,7 @@
 
 # Mediation Analysis
 - [Explaining Causal Findings Without Bias: Detecting and Assessing Direct Effects (2016)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/explaining-causal-findings-without-bias-detecting-and-assessing-direct-effects/D11BEB8666E913A0DCD7D0B9872F5D11)
+- [Unpacking the Black Box of Causality: Learning about Causal Mechanisms from Experimental and Observational Studies (2011)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/unpacking-the-black-box-of-causality-learning-about-causal-mechanisms-from-experimental-and-observational-studies/9D2ACE9F784B99A30216D216FBF88553)
 
 # Bayesian
 - [Mixing Methods: A Bayesian Approach (2015)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/mixing-methods-a-bayesian-approach/BB1DFC2FDA3D7F2224F3341042FEA5F4)
