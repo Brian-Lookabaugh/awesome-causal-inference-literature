@@ -8,6 +8,7 @@
 - [Does Regression Produce Representative Estimates of Causal Effects? (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12185)
 
 # Marginal Effects
+- [Behind the Curve: Clarifying the Best Approach to Calculating Predicted Probabilities and Marginal Effects from Limited Dependent Variable Models (2013)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00602.x)
 
 # Sensivity Analysis
 
@@ -19,12 +20,15 @@
 # Fixed Effects
 
 # Hierarchical Data Models
+- [How Many Countries for Multilevel Modeling? A Comparison of Frequentist and Bayesian Approaches (2013)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12001)
+- [Deep Interactions with MRP: Election Turnout and Voting Patterns Among Small Electoral Subgroups (2013)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12004)
 
 # General Panel Data
 - [A Practical Guide to Counterfactual Estimators for Causal Inference with Time-Series Cross-Sectional Data (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12723)
 
 # Inverse Probability Weighting and Marginal Structural Models
 - [How to Make Causal Inferences with Time-Series Cross-Sectional Data under Selection on Observables (2018)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/how-to-make-causal-inferences-with-timeseries-crosssectional-data-under-selection-on-observables/498BE04E5AF9802EC4D33DD7A4016584)
+- [A Framework for Dynamic Causal Inference in Political Science (2013)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00626.x)
 
 # Difference-in-Differences
 
@@ -34,6 +38,7 @@
 # Regression Discontinuity Designs
 
 # Instrumental Variables
+- [Instrumental Variables Estimation in Political Science: A Readers’ Guide (2011)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2010.00477.x)
 
 # Non-Linear Modeling
 - [Relaxing Assumptions, Improving Inference: Integrating Machine Learning and the Linear Regression(2023](https://www.cambridge.org/core/journals/american-political-science-review/article/relaxing-assumptions-improving-inference-integrating-machine-learning-and-the-linear-regression/52F06EF68EB20670B6CD1919C3C04D25)
@@ -44,6 +49,7 @@
 - [Abstraction and Detail in Experimental Design (2023)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12710)
 - [Adaptive Experimental Design: Prospects and Applications in Political Science (2021)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12597)
 - [How Conditioning on Posttreatment Variables Can Ruin Your Experiment and What to Do about It (2018)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12357)
+- [Detecting Spillover Effects: Design and Analysis of Multilevel Experiments (2012)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00592.x)
 
 # Double Machine Learning
 
@@ -56,6 +62,7 @@
 # Causal Survival Analysis
 
 # Missing Data
+- [What to Do about Missing Values in Time-Series Cross-Section Data (2010)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2010.00447.x)
 
 # Non-Average Treatment Effects
 
@@ -71,3 +78,4 @@
 - [Mixing Methods: A Bayesian Approach (2015)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/mixing-methods-a-bayesian-approach/BB1DFC2FDA3D7F2224F3341042FEA5F4)
 - [Placebo Tests for Causal Inference (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12818)
 - [Testing What Matters (If You Must Test at All): A Context-Driven Approach to Substantive and Statistical Significance (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12149)
+- [Arguing for a Negligible Effect (2014)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12102)
