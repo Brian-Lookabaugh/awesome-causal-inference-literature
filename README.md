@@ -5,6 +5,7 @@
 - [Phantom Counterfactuals (2023)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12715)
 
 # Regression Adjustment
+- [Does Regression Produce Representative Estimates of Causal Effects? (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12185)
 
 # Marginal Effects
 
@@ -13,6 +14,7 @@
 # Matching
 - [Matching Methods for Causal Inference with Time-Series Cross-Sectional Data (2023)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12685)
 - [Adjusting for Confounding with Text Matching (2020)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12526)
+- [Using Qualitative Information to Improve Causal Inference (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12154)
 
 # Fixed Effects
 
@@ -27,6 +29,7 @@
 # Difference-in-Differences
 
 # Synthetic Controls
+- [Comparative Politics and the Synthetic Control Method (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12116)
 
 # Regression Discontinuity Designs
 
@@ -40,6 +43,7 @@
 - [Are Survey Experiments Externally Valid? (2010)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/are-survey-experiments-externally-valid/7233B1EF4DD36030A0BC19380AEBCDFA)
 - [Abstraction and Detail in Experimental Design (2023)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12710)
 - [Adaptive Experimental Design: Prospects and Applications in Political Science (2021)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12597)
+- [How Conditioning on Posttreatment Variables Can Ruin Your Experiment and What to Do about It (2018)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12357)
 
 # Double Machine Learning
 
@@ -66,3 +70,4 @@
 # Bayesian/Statistical Inference
 - [Mixing Methods: A Bayesian Approach (2015)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/mixing-methods-a-bayesian-approach/BB1DFC2FDA3D7F2224F3341042FEA5F4)
 - [Placebo Tests for Causal Inference (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12818)
+- [Testing What Matters (If You Must Test at All): A Context-Driven Approach to Substantive and Statistical Significance (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12149)
