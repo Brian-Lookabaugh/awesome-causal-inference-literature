@@ -11,6 +11,7 @@
 - [Behind the Curve: Clarifying the Best Approach to Calculating Predicted Probabilities and Marginal Effects from Limited Dependent Variable Models (2013)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00602.x)
 
 # Sensivity Analysis
+- [From “Is It Unconfounded?” to “How Much Confounding Would It Take?”: Applying the Sensitivity-Based Approach to Assess Causes of Support for Peace in Colombia (2023)](https://www.journals.uchicago.edu/doi/10.1086/723995)
 
 # Matching
 - [Matching Methods for Causal Inference with Time-Series Cross-Sectional Data (2023)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12685)
@@ -22,6 +23,7 @@
 # Hierarchical Data Models
 - [How Many Countries for Multilevel Modeling? A Comparison of Frequentist and Bayesian Approaches (2013)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12001)
 - [Deep Interactions with MRP: Election Turnout and Voting Patterns Among Small Electoral Subgroups (2013)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12004)
+- [Improved Multilevel Regression with Poststratification through Machine Learning (autoMrP) (2022)](https://www.journals.uchicago.edu/doi/10.1086/714777)
 
 # General Panel Data
 - [A Practical Guide to Counterfactual Estimators for Causal Inference with Time-Series Cross-Sectional Data (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12723)
@@ -73,6 +75,9 @@
 # Mediation Analysis
 - [Explaining Causal Findings Without Bias: Detecting and Assessing Direct Effects (2016)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/explaining-causal-findings-without-bias-detecting-and-assessing-direct-effects/D11BEB8666E913A0DCD7D0B9872F5D11)
 - [Unpacking the Black Box of Causality: Learning about Causal Mechanisms from Experimental and Observational Studies (2011)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/unpacking-the-black-box-of-causality-learning-about-causal-mechanisms-from-experimental-and-observational-studies/9D2ACE9F784B99A30216D216FBF88553)
+
+# Simulation
+- [How Do We Know What We Know? Learning from Monte Carlo Simulations (2024)](https://www.journals.uchicago.edu/doi/10.1086/726934)
 
 # Bayesian/Statistical Inference
 - [Mixing Methods: A Bayesian Approach (2015)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/mixing-methods-a-bayesian-approach/BB1DFC2FDA3D7F2224F3341042FEA5F4)
