@@ -3,6 +3,7 @@
 # General Introductory Causal Inference
 *(Potential Outcomes, DAGs, Identification, etc.)*
 - [Phantom Counterfactuals (2023)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12715)
+- [Causal Empiricism in Quantitative Research (2016)](https://www.journals.uchicago.edu/doi/10.1086/686690)
 
 # Regression Adjustment
 - [Does Regression Produce Representative Estimates of Causal Effects? (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12185)
@@ -27,6 +28,7 @@
 
 # General Panel Data
 - [A Practical Guide to Counterfactual Estimators for Causal Inference with Time-Series Cross-Sectional Data (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12723)
+- [Lagged Explanatory Variables and the Estimation of Causal Effect (2017)](https://www.journals.uchicago.edu/doi/10.1086/690946)
 
 # Inverse Probability Weighting and Marginal Structural Models
 - [How to Make Causal Inferences with Time-Series Cross-Sectional Data under Selection on Observables (2018)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/how-to-make-causal-inferences-with-timeseries-crosssectional-data-under-selection-on-observables/498BE04E5AF9802EC4D33DD7A4016584)
@@ -38,6 +40,7 @@
 - [Comparative Politics and the Synthetic Control Method (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12116)
 
 # Regression Discontinuity Designs
+- [Interpreting Regression Discontinuity Designs with Multiple Cutoffs (2016)](https://www.journals.uchicago.edu/doi/10.1086/686802)
 
 # Instrumental Variables
 - [Instrumental Variables Estimation in Political Science: A Readers’ Guide (2011)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2010.00477.x)
