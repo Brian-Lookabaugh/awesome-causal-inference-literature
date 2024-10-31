@@ -87,3 +87,6 @@
 - [Placebo Tests for Causal Inference (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12818)
 - [Testing What Matters (If You Must Test at All): A Context-Driven Approach to Substantive and Statistical Significance (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12149)
 - [Arguing for a Negligible Effect (2014)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12102)
+
+# Survival Analysis
+- [Duration Models for Repeated Events (2002)](https://www.journals.uchicago.edu/doi/10.1111/1468-2508.00163)
