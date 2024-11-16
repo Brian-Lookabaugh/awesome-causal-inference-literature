@@ -90,3 +90,4 @@
 
 # Survival Analysis
 - [Duration Models for Repeated Events (2002)](https://www.journals.uchicago.edu/doi/10.1111/1468-2508.00163)
+- [Nonproportional Hazards and Event History Analysis in International Relations (2003)](https://journals.sagepub.com/doi/abs/10.1177/0022002702239510)
