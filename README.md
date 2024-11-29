@@ -75,6 +75,9 @@
 
 # Non-Linear Treatment Effect Modeling
 
+# Statistical Modeling
+- [Inference with Extremes: Accounting for Extreme Values in Count Regression Models (2024)](https://academic.oup.com/isq/article/68/4/sqae137/7889362)
+
 # Mediation Analysis
 - [Explaining Causal Findings Without Bias: Detecting and Assessing Direct Effects (2016)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/explaining-causal-findings-without-bias-detecting-and-assessing-direct-effects/D11BEB8666E913A0DCD7D0B9872F5D11)
 - [Unpacking the Black Box of Causality: Learning about Causal Mechanisms from Experimental and Observational Studies (2011)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/unpacking-the-black-box-of-causality-learning-about-causal-mechanisms-from-experimental-and-observational-studies/9D2ACE9F784B99A30216D216FBF88553)
