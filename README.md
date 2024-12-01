@@ -7,6 +7,10 @@
 
 # Regression Adjustment
 - [Does Regression Produce Representative Estimates of Causal Effects? (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12185)
+- - [When Can History Be Our Guide? The Pitfalls of Counterfactual Inference (2007)](https://academic.oup.com/isq/article-abstract/51/1/183/1804977?redirectedFrom=fulltext)
+- [Of Dinosaurs and Barbecue Sauce: A Comment on King and Zeng (2007)](https://academic.oup.com/isq/article-abstract/51/1/211/1805094?redirectedFrom=fulltext)
+- [No Easy Choices: Estimating the Effects of United Nations Peacekeeping (Response to King and Zeng) (2007)](https://academic.oup.com/isq/article-abstract/51/1/217/1805116?redirectedFrom=fulltext)
+- [Detecting Model Dependence in Statistical Inference: A Response (2007)](https://academic.oup.com/isq/article-abstract/51/1/231/1805312?redirectedFrom=fulltext)
 
 # Marginal Effects
 - [Behind the Curve: Clarifying the Best Approach to Calculating Predicted Probabilities and Marginal Effects from Limited Dependent Variable Models (2013)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00602.x)
