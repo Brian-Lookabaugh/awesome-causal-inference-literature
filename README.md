@@ -81,6 +81,7 @@
 
 # Statistical Modeling
 - [Inference with Extremes: Accounting for Extreme Values in Count Regression Models (2024)](https://academic.oup.com/isq/article/68/4/sqae137/7889362)
+- [Marginal Effects in Interaction Models: Determining and Controlling the False Positive Rate (2018)](https://journals.sagepub.com/doi/abs/10.1177/0010414017730080)
 
 # Mediation Analysis
 - [Explaining Causal Findings Without Bias: Detecting and Assessing Direct Effects (2016)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/explaining-causal-findings-without-bias-detecting-and-assessing-direct-effects/D11BEB8666E913A0DCD7D0B9872F5D11)
