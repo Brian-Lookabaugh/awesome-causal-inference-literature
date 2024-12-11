@@ -102,3 +102,4 @@
 # Survival Analysis
 - [Duration Models for Repeated Events (2002)](https://www.journals.uchicago.edu/doi/10.1111/1468-2508.00163)
 - [Nonproportional Hazards and Event History Analysis in International Relations (2003)](https://journals.sagepub.com/doi/abs/10.1177/0022002702239510)
+- [Beyond the Hazard Ratio: Generating Expected Durations from the Cox Proportional Hazards Model (2020)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/beyond-the-hazard-ratio-generating-expected-durations-from-the-cox-proportional-hazards-model/B161DC9C5C9C83B16B27E2578F35FCBB)
