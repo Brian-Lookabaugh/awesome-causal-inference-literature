@@ -17,6 +17,7 @@
 
 # Sensivity Analysis
 - [From “Is It Unconfounded?” to “How Much Confounding Would It Take?”: Applying the Sensitivity-Based Approach to Assess Causes of Support for Peace in Colombia (2023)](https://www.journals.uchicago.edu/doi/10.1086/723995)
+- [Robustness of Empirical Evidence for the Democratic Peace: A Nonparametric Sensitivity Analysis (2021)](https://www.cambridge.org/core/journals/international-organization/article/abs/robustness-of-empirical-evidence-for-the-democratic-peace-a-nonparametric-sensitivity-analysis/66A4FFF9F79348AB926284EC32EC11AB)
 
 # Matching
 - [Matching Methods for Causal Inference with Time-Series Cross-Sectional Data (2023)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12685)
