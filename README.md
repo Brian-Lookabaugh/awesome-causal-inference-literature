@@ -4,6 +4,17 @@
 *(Potential Outcomes, DAGs, Identification, etc.)*
 - [Phantom Counterfactuals (2023)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12715)
 - [Causal Empiricism in Quantitative Research (2016)](https://www.journals.uchicago.edu/doi/10.1086/686690)
+- [Bias mitigation in empirical peace and conflict studies: A short primer on posttreatment variables (2023)](https://journals.sagepub.com/doi/full/10.1177/00223433221145531)
+- [A Crash Course in Good and Bad Controls (2022)](https://journals.sagepub.com/doi/full/10.1177/00491241221099552)
+- [Statistical Control Requires Causal Justification (2022)](https://journals.sagepub.com/doi/10.1177/25152459221095823)
+- [What Is Your Estimand? Defining the Target Quantity Connects Statistical Evidence to Theory (2021)](https://journals.sagepub.com/doi/abs/10.1177/00031224211004187?journalCode=asra)
+- [The Taboo Against Explicit Causal Inference in Nonexperimental Psychology (2020)](https://journals.sagepub.com/doi/10.1177/1745691620921521)
+- [The C-Word: Scientiﬁc Euphemisms Do Not Improve Causal Inference From Observational Data (2008)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5888052/)
+- [Thinking Clearly About Correlations and Causation: Graphical Causal Models for Observational Data (2018)](https://journals.sagepub.com/doi/10.1177/2515245917745629)
+- [Omitted Variables, Countervailing Effects, and the Possibility of Overadjustment (2018)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/omitted-variables-countervailing-effects-and-the-possibility-of-overadjustment/2758794426905370D73FE5F675489524)
+- [The Statistics of Causal Inference: A View from Political Methodology (2015)](https://www.cambridge.org/core/journals/political-analysis/article/abs/statistics-of-causal-inference-a-view-from-political-methodology/314EFF877ECB1B90A1452D10D4E24BB3)
+- [The dangers of extreme counterfactuals (2006)](https://gking.harvard.edu/files/abs/counterft-abs.shtml)
+- [Mere description (2012)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/mere-description/833643C6242D3A45D48BAAC3EF0C33D0)
 
 # Regression Adjustment
 - [Does Regression Produce Representative Estimates of Causal Effects? (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12185)
@@ -11,13 +22,18 @@
 - [Of Dinosaurs and Barbecue Sauce: A Comment on King and Zeng (2007)](https://academic.oup.com/isq/article-abstract/51/1/211/1805094?redirectedFrom=fulltext)
 - [No Easy Choices: Estimating the Effects of United Nations Peacekeeping (Response to King and Zeng) (2007)](https://academic.oup.com/isq/article-abstract/51/1/217/1805116?redirectedFrom=fulltext)
 - [Detecting Model Dependence in Statistical Inference: A Response (2007)](https://academic.oup.com/isq/article-abstract/51/1/231/1805312?redirectedFrom=fulltext)
+- [On the Nuisance of Control Variables in Causal Regression Analysis (2023)](https://journals.sagepub.com/doi/10.1177/10944281231219274?icid=int.sj-full-text.citing-articles.86)
+- [The causal interpretation of estimated associations in regression models (2019)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/causal-interpretation-of-estimated-associations-in-regression-models/4488EC8925CF8F623CDE655E01268F6F)
 
 # Marginal Effects
 - [Behind the Curve: Clarifying the Best Approach to Calculating Predicted Probabilities and Marginal Effects from Limited Dependent Variable Models (2013)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00602.x)
+- [The table 2 fallacy: presenting and interpreting confounder and modifier coefficients (2013)](https://pubmed.ncbi.nlm.nih.gov/23371353/)
 
 # Sensivity Analysis
 - [From “Is It Unconfounded?” to “How Much Confounding Would It Take?”: Applying the Sensitivity-Based Approach to Assess Causes of Support for Peace in Colombia (2023)](https://www.journals.uchicago.edu/doi/10.1086/723995)
 - [Robustness of Empirical Evidence for the Democratic Peace: A Nonparametric Sensitivity Analysis (2021)](https://www.cambridge.org/core/journals/international-organization/article/abs/robustness-of-empirical-evidence-for-the-democratic-peace-a-nonparametric-sensitivity-analysis/66A4FFF9F79348AB926284EC32EC11AB)
+- [tipr: An R package for sensitivity analyses for unmeasured confounders (2022)](https://joss.theoj.org/papers/10.21105/joss.04495)
+- [Making Sense of Sensitivity: Extending Omitted Variable Bias (2020)](https://academic.oup.com/jrsssb/article/82/1/39/7056023)
 
 # Matching
 - [Matching Methods for Causal Inference with Time-Series Cross-Sectional Data (2023)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12685)
