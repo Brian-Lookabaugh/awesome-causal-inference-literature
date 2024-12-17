@@ -15,6 +15,7 @@
 - [The Statistics of Causal Inference: A View from Political Methodology (2015)](https://www.cambridge.org/core/journals/political-analysis/article/abs/statistics-of-causal-inference-a-view-from-political-methodology/314EFF877ECB1B90A1452D10D4E24BB3)
 - [The dangers of extreme counterfactuals (2006)](https://gking.harvard.edu/files/abs/counterft-abs.shtml)
 - [Mere description (2012)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/mere-description/833643C6242D3A45D48BAAC3EF0C33D0)
+- [Dealing with limited overlap in estimation of average treatment effects (2009)](https://academic.oup.com/biomet/article-abstract/96/1/187/235329)
 
 # Regression Adjustment
 - [Does Regression Produce Representative Estimates of Causal Effects? (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12185)
@@ -28,17 +29,44 @@
 # Marginal Effects
 - [Behind the Curve: Clarifying the Best Approach to Calculating Predicted Probabilities and Marginal Effects from Limited Dependent Variable Models (2013)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00602.x)
 - [The table 2 fallacy: presenting and interpreting confounder and modifier coefficients (2013)](https://pubmed.ncbi.nlm.nih.gov/23371353/)
+- [Making apples from oranges: Comparing noncollapsible effect estimators and their standard errors after adjustment for different covariate sets (2021)](https://onlinelibrary.wiley.com/doi/full/10.1002/bimj.201900297)
+- [An introduction to g methods (2017)](https://academic.oup.com/ije/article/46/2/756/2760169)
+- [Behind the Curve: Clarifying the Best Approach to Calculating Predicted Probabilities and Marginal Effects from Limited Dependent Variable Models (2013)](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2012.00602.x)
+- [The hazards of hazard ratios (2010)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3653612/)
+- [Logistic regression: Why we cannot do what We think we can do, and what we can do about it (2010)](https://academic.oup.com/esr/article-abstract/26/1/67/540767?redirectedFrom=fulltext)
+- [How to Interpret Statistical Models Using marginaleffects for R and Python (2024)](https://www.jstatsoft.org/article/view/v111i09)
+- [Using Predictions and Marginal Effects to Compare Groups in Regression Models for Binary Outcomes (2018)](https://journals.sagepub.com/doi/10.1177/0049124118799374)
+- [Marginal Effects—Quantifying the Effect of Changes in Risk Factors in Logistic Regression Models (2019)](https://jamanetwork.com/journals/jama/article-abstract/2728169)
 
 # Sensivity Analysis
 - [From “Is It Unconfounded?” to “How Much Confounding Would It Take?”: Applying the Sensitivity-Based Approach to Assess Causes of Support for Peace in Colombia (2023)](https://www.journals.uchicago.edu/doi/10.1086/723995)
 - [Robustness of Empirical Evidence for the Democratic Peace: A Nonparametric Sensitivity Analysis (2021)](https://www.cambridge.org/core/journals/international-organization/article/abs/robustness-of-empirical-evidence-for-the-democratic-peace-a-nonparametric-sensitivity-analysis/66A4FFF9F79348AB926284EC32EC11AB)
 - [tipr: An R package for sensitivity analyses for unmeasured confounders (2022)](https://joss.theoj.org/papers/10.21105/joss.04495)
 - [Making Sense of Sensitivity: Extending Omitted Variable Bias (2020)](https://academic.oup.com/jrsssb/article/82/1/39/7056023)
+- [The sensitivity of sensitivity analysis (2020)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/sensitivity-of-sensitivity-analysis/525549A1703E35C685F748F73748926C)
+- [An introduction to sensitivity analysis for unobserved confounding in nonexperimental prevention research (2013)](https://pubmed.ncbi.nlm.nih.gov/23408282/)
+- [Sensitivity analysis without assumptions (2016)](https://pubmed.ncbi.nlm.nih.gov/26841057/)
 
-# Matching
+# Matching/Propensity Score Methods
 - [Matching Methods for Causal Inference with Time-Series Cross-Sectional Data (2023)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12685)
 - [Adjusting for Confounding with Text Matching (2020)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12526)
 - [Using Qualitative Information to Improve Causal Inference (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12154)
+- [Matching Methods for Confounder Adjustment: An Addition to the Epidemiologist's Toolbox (2021)](https://academic.oup.com/epirev/article/43/1/118/6295793)
+- [Telescope matching for reducing model dependence in the estimation of the effects of time-varying treatments: An application to negative advertising (2022)](https://academic.oup.com/jrsssa/article/185/1/377/7068439)
+- [Matching methods for causal inference: A review and a look forward (2010)](https://pmc.ncbi.nlm.nih.gov/articles/PMC2943670/)
+- [Why propensity scores should not be used for matching (2019)](https://gking.harvard.edu/publications/why-propensity-scores-should-not-be-used-formatching)
+- [Alternative approaches for confounding adjustment in observational studies using weighting based on the propensity score: a primer for practitioners (2019)](https://www.bmj.com/content/367/bmj.l5657)
+- [Covariate balancing propensity score (2014)](https://imai.fas.harvard.edu/research/files/CBPS.pdf)
+- [Improving propensity score weighting using machine learning (2010)](https://pubmed.ncbi.nlm.nih.gov/19960510/)
+- [Propensity score weighting and trimming strategies for reducing variance and bias of treatment effect estimates: a simulation study (2021)](https://pubmed.ncbi.nlm.nih.gov/33615349/)
+- [A comparison of 12 algorithms for matching on the propensity score (2014)](https://pubmed.ncbi.nlm.nih.gov/24123228/)
+- [Variance estimation when using propensity-score matching with replacement with survival or time-to-event outcomes (2020)](https://pubmed.ncbi.nlm.nih.gov/32109319/)
+- [Modern algorithms for matching in observational studies (2020)](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-031219-041058)
+- [Statistical criteria for selecting the optimal number of untreated subjects matched to each treated subject when using many-to-one matching on the propensity score (2010)](https://pubmed.ncbi.nlm.nih.gov/20802241/)
+- [Genetic matching for estimating causal effects: a general multivariate matching method for achieving balance in observational studies (2013)](https://direct.mit.edu/rest/article-abstract/95/3/932/58101/Genetic-Matching-for-Estimating-Causal-Effects-A?redirectedFrom=fulltext)
+- [Causal inference without balance checking: coarsened exact matching (2012)](https://www.cambridge.org/core/journals/political-analysis/article/abs/causal-inference-without-balance-checking-coarsened-exact-matching/5ABCF5B3FC3089A87FD59CECBB3465C0)
+- [The performance of inverse probability of treatment weighting and full matching on the propensity score in the presence of model misspecification when estimating the effect of treatment on survival outcomes (2017)](https://pubmed.ncbi.nlm.nih.gov/25934643/)
+- [Theory of statistical inference for matching methods in causal research (2019)](https://gking.harvard.edu/matchingtheory)
 
 # Fixed Effects
 
@@ -54,6 +82,8 @@
 # Inverse Probability Weighting and Marginal Structural Models
 - [How to Make Causal Inferences with Time-Series Cross-Sectional Data under Selection on Observables (2018)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/how-to-make-causal-inferences-with-timeseries-crosssectional-data-under-selection-on-observables/498BE04E5AF9802EC4D33DD7A4016584)
 - [A Framework for Dynamic Causal Inference in Political Science (2013)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00626.x)
+- [An introduction to g methods (2017)](https://academic.oup.com/ije/article/46/2/756/2760169)
+- [The performance of inverse probability of treatment weighting and full matching on the propensity score in the presence of model misspecification when estimating the effect of treatment on survival outcomes (2017)](https://pubmed.ncbi.nlm.nih.gov/25934643/)
 
 # Difference-in-Differences
 
@@ -120,3 +150,6 @@
 - [Duration Models for Repeated Events (2002)](https://www.journals.uchicago.edu/doi/10.1111/1468-2508.00163)
 - [Nonproportional Hazards and Event History Analysis in International Relations (2003)](https://journals.sagepub.com/doi/abs/10.1177/0022002702239510)
 - [Beyond the Hazard Ratio: Generating Expected Durations from the Cox Proportional Hazards Model (2020)](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/abs/beyond-the-hazard-ratio-generating-expected-durations-from-the-cox-proportional-hazards-model/B161DC9C5C9C83B16B27E2578F35FCBB)
+- [The hazards of hazard ratios (2010)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3653612/)
+- [Variance estimation when using propensity-score matching with replacement with survival or time-to-event outcomes (2020)](https://pubmed.ncbi.nlm.nih.gov/32109319/)
+- [The performance of inverse probability of treatment weighting and full matching on the propensity score in the presence of model misspecification when estimating the effect of treatment on survival outcomes (2017)](https://pubmed.ncbi.nlm.nih.gov/25934643/)
