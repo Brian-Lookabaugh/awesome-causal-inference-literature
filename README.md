@@ -53,6 +53,7 @@
 - [The sensitivity of sensitivity analysis (2020)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/sensitivity-of-sensitivity-analysis/525549A1703E35C685F748F73748926C)
 - [An introduction to sensitivity analysis for unobserved confounding in nonexperimental prevention research (2013)](https://pubmed.ncbi.nlm.nih.gov/23408282/)
 - [Sensitivity analysis without assumptions (2016)](https://pubmed.ncbi.nlm.nih.gov/26841057/)
+- [A Selection Bias Approach to Sensitivity Analysis for Causal Effects (2014)](https://www.cambridge.org/core/journals/political-analysis/article/selection-bias-approach-to-sensitivity-analysis-for-causal-effects/788C169FAF5482452566811136D4F9B4)
 
 # Matching/Propensity Score Methods
 - [Matching Methods for Causal Inference with Time-Series Cross-Sectional Data (2023)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12685)
@@ -81,6 +82,8 @@
 - [Understanding, Choosing, and Unifying Multilevel and Fixed Effect Approaches (2022)](https://www.cambridge.org/core/journals/political-analysis/article/understanding-choosing-and-unifying-multilevel-and-fixed-effect-approaches/8101D49CFD3B129F5753FC878F416980)
 - [On the Use of Two-Way Fixed Effects Regression Models for Causal Inference with Panel Data (2021)](https://www.cambridge.org/core/journals/political-analysis/article/abs/on-the-use-of-twoway-fixed-effects-regression-models-for-causal-inference-with-panel-data/F10006D0210407C5F9C7CAC1EEE3EF0D)
 - [Not so Harmless After All: The Fixed-Effects Model (2019)](https://www.cambridge.org/core/journals/political-analysis/article/not-so-harmless-after-all-the-fixedeffects-model/5DD67D1D95F573B11EB189BA72338854)
+- [Should I Use Fixed or Random Effects? (2015)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/should-i-use-fixed-or-random-effects/12DFCB222123587A37163F2226E85C67)
+- [Explaining Fixed Effects: Random Effects Modeling of Time-Series Cross-Sectional and Panel Data (2015)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/explaining-fixed-effects-random-effects-modeling-of-timeseries-crosssectional-and-panel-data/0334A27557D15848549120FE8ECD8D63)
 
 # Hierarchical Data Models
 - [How Many Countries for Multilevel Modeling? A Comparison of Frequentist and Bayesian Approaches (2013)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12001)
@@ -88,17 +91,24 @@
 - [Improved Multilevel Regression with Poststratification through Machine Learning (autoMrP) (2022)](https://www.journals.uchicago.edu/doi/10.1086/714777)
 - [Understanding, Choosing, and Unifying Multilevel and Fixed Effect Approaches (2022)](https://www.cambridge.org/core/journals/political-analysis/article/understanding-choosing-and-unifying-multilevel-and-fixed-effect-approaches/8101D49CFD3B129F5753FC878F416980)
 - [Not so Harmless After All: The Fixed-Effects Model (2019)](https://www.cambridge.org/core/journals/political-analysis/article/not-so-harmless-after-all-the-fixedeffects-model/5DD67D1D95F573B11EB189BA72338854)
+- [Should I Use Fixed or Random Effects? (2015)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/should-i-use-fixed-or-random-effects/12DFCB222123587A37163F2226E85C67)
+- [Explaining Fixed Effects: Random Effects Modeling of Time-Series Cross-Sectional and Panel Data (2015)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/explaining-fixed-effects-random-effects-modeling-of-timeseries-crosssectional-and-panel-data/0334A27557D15848549120FE8ECD8D63)
+- [Two Multilevel Modeling Techniques for Analyzing Comparative Longitudinal Survey Datasets (2014)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/two-multilevel-modeling-techniques-for-analyzing-comparative-longitudinal-survey-datasets/FE4BEA6E0ECB5A55AF48E4F22C49E5BB)
 
 # General Panel Data
 - [A Practical Guide to Counterfactual Estimators for Causal Inference with Time-Series Cross-Sectional Data (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12723)
 - [Lagged Explanatory Variables and the Estimation of Causal Effect (2017)](https://www.journals.uchicago.edu/doi/10.1086/690946)
 - [Lagged Outcomes, Lagged Predictors, and Lagged Errors: A Clarification on Common Factors (2021)](https://www.cambridge.org/core/journals/political-analysis/article/lagged-outcomes-lagged-predictors-and-lagged-errors-a-clarification-on-common-factors/B088215D9FC5E55BD987F041226E0B01)
+- [To Lag or Not to Lag?: Re-Evaluating the Use of Lagged Dependent Variables in Regression Analysis (2018)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/to-lag-or-not-to-lag-reevaluating-the-use-of-lagged-dependent-variables-in-regression-analysis/F0B1870165C3FD4AB5CE69D618DF46FD)
+- [What To Do About Atheoretic Lags (2017)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/what-to-do-about-atheoretic-lags/6C7F0BF21CF12C93A127398AB1B65A45)
 
 # Inverse Probability Weighting and Marginal Structural Models
 - [How to Make Causal Inferences with Time-Series Cross-Sectional Data under Selection on Observables (2018)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/how-to-make-causal-inferences-with-timeseries-crosssectional-data-under-selection-on-observables/498BE04E5AF9802EC4D33DD7A4016584)
 - [A Framework for Dynamic Causal Inference in Political Science (2013)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00626.x)
 - [An introduction to g methods (2017)](https://academic.oup.com/ije/article/46/2/756/2760169)
 - [The performance of inverse probability of treatment weighting and full matching on the propensity score in the presence of model misspecification when estimating the effect of treatment on survival outcomes (2017)](https://pubmed.ncbi.nlm.nih.gov/25934643/)
+- [An Introduction to the Augmented Inverse Propensity Weighted Estimator (2010)](https://www.cambridge.org/core/journals/political-analysis/article/abs/an-introduction-to-the-augmented-inverse-propensity-weighted-estimator/4B1B8301E46F4432C4DCC91FE20780DB)
+- [Estimating controlled direct effects through marginal structural models (2020)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/estimating-controlled-direct-effects-through-marginal-structural-models/699FF00ECEA7F2528A4F2C9F5AD95E01)
 
 # Difference-in-Differences
 
@@ -112,12 +122,14 @@
 - [Regression Discontinuity Designs (2022)](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-051520-021409)
 - [Misunderstandings About the Regression Discontinuity Design in the Study of Close Elections (2016)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-032015-010115)
 - [Geographic Boundaries as Regression Discontinuities (2015)](https://www.cambridge.org/core/journals/political-analysis/article/geographic-boundaries-as-regression-discontinuities/2A59F3077F49AD2B908B531F6E458430)
+- [African Borders as Sources of Natural Experiments Promise and Pitfalls (2015)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/african-borders-as-sources-of-natural-experiments-promise-and-pitfalls/BCEEF369237A7CDA7524760F443CB432)
 
 # Instrumental Variables
 - [Instrumental Variables Estimation in Political Science: A Readers’ Guide (2011)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2010.00477.x)
 - [Identification and Extrapolation of Causal Effects with Instrumental Variables (2018)](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-101617-041813)
 - [Instrumental Variables in Sociology and the Social Sciences (2012)](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-081309-150141)
 - [How Much Should We Trust Instrumental Variable Estimates in Political Science? Practical Advice Based on 67 Replicated Studies (2024)](https://www.cambridge.org/core/journals/political-analysis/article/how-much-should-we-trust-instrumental-variable-estimates-in-political-science-practical-advice-based-on-67-replicated-studies/70A232CA0CD55FE8B97E93543CDD6361)
+- [Beyond LATE: Estimation of the Average Treatment Effect with an Instrumental Variable (2013)](https://www.cambridge.org/core/journals/political-analysis/article/abs/beyond-late-estimation-of-the-average-treatment-effect-with-an-instrumental-variable/604E0803793175CF88329DB34DAA80B3)
 
 # Non-Linear Modeling
 - [Relaxing Assumptions, Improving Inference: Integrating Machine Learning and the Linear Regression(2023](https://www.cambridge.org/core/journals/american-political-science-review/article/relaxing-assumptions-improving-inference-integrating-machine-learning-and-the-linear-regression/52F06EF68EB20670B6CD1919C3C04D25)
@@ -154,6 +166,7 @@
 - [Reducing Model Misspecification and Bias in the Estimation of Interactions (2022)](https://www.cambridge.org/core/journals/political-analysis/article/abs/reducing-model-misspecification-and-bias-in-the-estimation-of-interactions/DE5AB7EB87CA53142448D7F55D6517DB)
 - [The Consequences of Model Misspecification for the Estimation of Nonlinear Interaction Effects (2023)](https://www.cambridge.org/core/journals/political-analysis/article/consequences-of-model-misspecification-for-the-estimation-of-nonlinear-interaction-effects/2B357A2A30FA777B729ACFA252797D3F)
 - [How Much Should We Trust Estimates from Multiplicative Interaction Models? Simple Tools to Improve Empirical Practice (2019)](https://www.cambridge.org/core/journals/political-analysis/article/how-much-should-we-trust-estimates-from-multiplicative-interaction-models-simple-tools-to-improve-empirical-practice/D8CAACB473F9B1EE256F43B38E458706)
+- [Causal interaction and effect modification: same model, different concepts (2021)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/causal-interaction-and-effect-modification-same-model-different-concepts/1036031FB5777BC435934E3684685A49)
 
 # Statistical Modeling
 - [Inference with Extremes: Accounting for Extreme Values in Count Regression Models (2024)](https://academic.oup.com/isq/article/68/4/sqae137/7889362)
@@ -181,6 +194,7 @@
 - [Achieving Statistical Significance with Control Variables and Without Transparency (2021)](https://www.cambridge.org/core/journals/political-analysis/article/abs/achieving-statistical-significance-with-control-variables-and-without-transparency/1E867C357835019E0C9322B918414045)
 - [Corrected Standard Errors with Clustered Data (2020)](https://www.cambridge.org/core/journals/political-analysis/article/abs/corrected-standard-errors-with-clustered-data/F2332E494290725256181955B9BC7428)
 - [How Robust Standard Errors Expose Methodological Problems They Do Not Fix, and What to Do About It (2015)](https://www.cambridge.org/core/journals/political-analysis/article/abs/how-robust-standard-errors-expose-methodological-problems-they-do-not-fix-and-what-to-do-about-it/7E2F393B16FC6BCD6DA8C19D8D5D1F6B)
+- [Bayesian Model Averaging: Theoretical Developments and Practical Applications (2010)](https://www.cambridge.org/core/journals/political-analysis/article/abs/bayesian-model-averaging-theoretical-developments-and-practical-applications/3179D92A3C9353DE7E4674987C33FD28)
 
 # Survival Analysis
 - [Duration Models for Repeated Events (2002)](https://www.journals.uchicago.edu/doi/10.1111/1468-2508.00163)
@@ -200,9 +214,12 @@
 - [Quantifying Change Over Time: Interpreting Time-varying Effects In Duration Analyses (2018)](https://www.cambridge.org/core/journals/political-analysis/article/abs/quantifying-change-over-time-interpreting-timevarying-effects-in-duration-analyses/D608930F4C343665AA233ABF838FA8D8)
 - [Proper Specification of Nonproportional Hazards Corrections in Duration Models (2017)](https://www.cambridge.org/core/journals/political-analysis/article/proper-specification-of-nonproportional-hazards-corrections-in-duration-models/AA9B0AAC38AA25773A0FC7163AFB8F67)
 - [Surviving Phases: Introducing Multistate Survival Models (2016)](https://www.cambridge.org/core/journals/political-analysis/article/abs/surviving-phases-introducing-multistate-survival-models/98066AA89777BED49744D8CC752B686D)
+- [Analyzing the Robustness of Semi-Parametric Duration Models for the Study of Repeated Events (2014)](https://www.cambridge.org/core/journals/political-analysis/article/abs/analyzing-the-robustness-of-semiparametric-duration-models-for-the-study-of-repeated-events/51894DE50E5B5A3CA0FFBBB2224D91DF)
+- [Simulating Duration Data for the Cox Model (2019)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/simulating-duration-data-for-the-cox-model/1945D7548766E76FB31C6C833976822E)
 
 # Predictive Machine Learning
 - [Machine Learning Methods That Economists Should Know About (2019)](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-080217-053433)
 - [Machine Learning for Social Science: An Agnostic Approach (2021)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-053119-015921)
 - [Machine Learning for Sociology (2019)](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-073117-041106)
 - [What Can We Learn from Predictive Modeling? (2017)](https://www.cambridge.org/core/journals/political-analysis/article/abs/what-can-we-learn-from-predictive-modeling/DA6161B358A86146B2DB3E5025461554)
+- [The role of hyperparameters in machine learning models and how to tune them (2024)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/role-of-hyperparameters-in-machine-learning-models-and-how-to-tune-them/27296C04CF5935C55327F11BF4017371)
