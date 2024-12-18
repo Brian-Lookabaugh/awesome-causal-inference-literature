@@ -25,7 +25,7 @@
 
 # Regression Adjustment
 - [Does Regression Produce Representative Estimates of Causal Effects? (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12185)
-- - [When Can History Be Our Guide? The Pitfalls of Counterfactual Inference (2007)](https://academic.oup.com/isq/article-abstract/51/1/183/1804977?redirectedFrom=fulltext)
+- [When Can History Be Our Guide? The Pitfalls of Counterfactual Inference (2007)](https://academic.oup.com/isq/article-abstract/51/1/183/1804977?redirectedFrom=fulltext)
 - [Of Dinosaurs and Barbecue Sauce: A Comment on King and Zeng (2007)](https://academic.oup.com/isq/article-abstract/51/1/211/1805094?redirectedFrom=fulltext)
 - [No Easy Choices: Estimating the Effects of United Nations Peacekeeping (Response to King and Zeng) (2007)](https://academic.oup.com/isq/article-abstract/51/1/217/1805116?redirectedFrom=fulltext)
 - [Detecting Model Dependence in Statistical Inference: A Response (2007)](https://academic.oup.com/isq/article-abstract/51/1/231/1805312?redirectedFrom=fulltext)
@@ -44,6 +44,7 @@
 - [Using Predictions and Marginal Effects to Compare Groups in Regression Models for Binary Outcomes (2018)](https://journals.sagepub.com/doi/10.1177/0049124118799374)
 - [Marginal Effects—Quantifying the Effect of Changes in Risk Factors in Logistic Regression Models (2019)](https://jamanetwork.com/journals/jama/article-abstract/2728169)
 - [Marginal Effects in Interaction Models: Determining and Controlling the False Positive Rate (2018)](https://journals.sagepub.com/doi/abs/10.1177/0010414017730080)
+- [The Causal Cookbook: Recipes for Propensity Scores, G-Computation, and Doubly Robust Standardization (2024)](https://journals.sagepub.com/doi/10.1177/25152459241236149)
 
 # Sensivity Analysis
 - [From “Is It Unconfounded?” to “How Much Confounding Would It Take?”: Applying the Sensitivity-Based Approach to Assess Causes of Support for Peace in Colombia (2023)](https://www.journals.uchicago.edu/doi/10.1086/723995)
@@ -76,6 +77,7 @@
 - [The performance of inverse probability of treatment weighting and full matching on the propensity score in the presence of model misspecification when estimating the effect of treatment on survival outcomes (2017)](https://pubmed.ncbi.nlm.nih.gov/25934643/)
 - [Theory of statistical inference for matching methods in causal research (2019)](https://gking.harvard.edu/matchingtheory)
 - [Generalized Full Matching (2021)](https://www.cambridge.org/core/journals/political-analysis/article/abs/generalized-full-matching/3DA71D8BEDA6F02B5D36457E114C79B6)
+- [The Causal Cookbook: Recipes for Propensity Scores, G-Computation, and Doubly Robust Standardization (2024)](https://journals.sagepub.com/doi/10.1177/25152459241236149)
 
 # Fixed Effects
 - [Fixed Effects Estimation of Large-TPanel Data Models (2018)](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-080217-053542)
@@ -84,6 +86,10 @@
 - [Not so Harmless After All: The Fixed-Effects Model (2019)](https://www.cambridge.org/core/journals/political-analysis/article/not-so-harmless-after-all-the-fixedeffects-model/5DD67D1D95F573B11EB189BA72338854)
 - [Should I Use Fixed or Random Effects? (2015)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/should-i-use-fixed-or-random-effects/12DFCB222123587A37163F2226E85C67)
 - [Explaining Fixed Effects: Random Effects Modeling of Time-Series Cross-Sectional and Panel Data (2015)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/explaining-fixed-effects-random-effects-modeling-of-timeseries-crosssectional-and-panel-data/0334A27557D15848549120FE8ECD8D63)
+- [The fixed versus random effects debate and how it relates to centering in multilevel modeling (2020)](https://pubmed.ncbi.nlm.nih.gov/31613118/)
+- [Fixed and random effects models: making an informed choice (2020)](https://link.springer.com/article/10.1007/s11135-018-0802-x)
+- [When Should We Use Unit Fixed Effects Regression Models for Causal Inference with Longitudinal Data? (2019)](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12417)
+- [Causal Panel Analysis under Parallel Trends: Lessons from A Large Reanalysis Study (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4490035)
 
 # Hierarchical Data Models
 - [How Many Countries for Multilevel Modeling? A Comparison of Frequentist and Bayesian Approaches (2013)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12001)
@@ -94,6 +100,15 @@
 - [Should I Use Fixed or Random Effects? (2015)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/should-i-use-fixed-or-random-effects/12DFCB222123587A37163F2226E85C67)
 - [Explaining Fixed Effects: Random Effects Modeling of Time-Series Cross-Sectional and Panel Data (2015)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/explaining-fixed-effects-random-effects-modeling-of-timeseries-crosssectional-and-panel-data/0334A27557D15848549120FE8ECD8D63)
 - [Two Multilevel Modeling Techniques for Analyzing Comparative Longitudinal Survey Datasets (2014)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/two-multilevel-modeling-techniques-for-analyzing-comparative-longitudinal-survey-datasets/FE4BEA6E0ECB5A55AF48E4F22C49E5BB)
+- [The fixed versus random effects debate and how it relates to centering in multilevel modeling (2020)](https://pubmed.ncbi.nlm.nih.gov/31613118/)
+- [Fixed and random effects models: making an informed choice (2020)](https://link.springer.com/article/10.1007/s11135-018-0802-x)
+- [Understanding and misunderstanding group mean centering: a commentary on Kelley et al.’s dangerous practice (2017)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6096905/)
+- [Centering predictor variables in cross-sectional multilevel models: a new look at an old issue (2007)](https://pubmed.ncbi.nlm.nih.gov/17563168/)
+- [Generalized Estimating Equations: Introduction (2014)](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118445112.stat06899)
+- [Generalized Estimating Equations in Longitudinal Data Analysis: A Review and Recent Developments (2014)](https://onlinelibrary.wiley.com/doi/10.1155/2014/303728)
+- [Statistical Analysis of Correlated Data Using Generalized Estimating Equations: An Orientation (2003)](https://academic.oup.com/aje/article-abstract/157/4/364/78911?redirectedFrom=PDF)
+- [Using Generalized Estimating Equations for Longitudinal Data Analysis (2004)](https://journals.sagepub.com/doi/abs/10.1177/1094428104263672)
+- [Generalized Estimating Equation Models for Correlated Data: A Review with Applications (2001)](https://www.jstor.org/stable/2669353)
 
 # General Panel Data
 - [A Practical Guide to Counterfactual Estimators for Causal Inference with Time-Series Cross-Sectional Data (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12723)
@@ -101,6 +116,11 @@
 - [Lagged Outcomes, Lagged Predictors, and Lagged Errors: A Clarification on Common Factors (2021)](https://www.cambridge.org/core/journals/political-analysis/article/lagged-outcomes-lagged-predictors-and-lagged-errors-a-clarification-on-common-factors/B088215D9FC5E55BD987F041226E0B01)
 - [To Lag or Not to Lag?: Re-Evaluating the Use of Lagged Dependent Variables in Regression Analysis (2018)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/to-lag-or-not-to-lag-reevaluating-the-use-of-lagged-dependent-variables-in-regression-analysis/F0B1870165C3FD4AB5CE69D618DF46FD)
 - [What To Do About Atheoretic Lags (2017)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/what-to-do-about-atheoretic-lags/6C7F0BF21CF12C93A127398AB1B65A45)
+- [The Causal Cookbook: Recipes for Propensity Scores, G-Computation, and Doubly Robust Standardization (2024)](https://journals.sagepub.com/doi/10.1177/25152459241236149)
+- [A Practical Guide to Counterfactual Estimators for Causal Inference with Time-Series Cross-Sectional Data (2024)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12723)
+- [Panel Data Visualization in R (panelView) and Stata (panelview) (2023)](https://www.jstatsoft.org/article/view/v107i07)
+- [These Are Not the Effects You Are Looking for: Causality and the Within-/Between-Persons Distinction in Longitudinal Data Analysis (2023)](https://journals.sagepub.com/doi/10.1177/25152459221140842)
+- [Causal Inference with Time-Series Cross-Sectional Data: A Reflection (2023)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3979613)
 
 # Inverse Probability Weighting and Marginal Structural Models
 - [How to Make Causal Inferences with Time-Series Cross-Sectional Data under Selection on Observables (2018)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/how-to-make-causal-inferences-with-timeseries-crosssectional-data-under-selection-on-observables/498BE04E5AF9802EC4D33DD7A4016584)
@@ -109,13 +129,36 @@
 - [The performance of inverse probability of treatment weighting and full matching on the propensity score in the presence of model misspecification when estimating the effect of treatment on survival outcomes (2017)](https://pubmed.ncbi.nlm.nih.gov/25934643/)
 - [An Introduction to the Augmented Inverse Propensity Weighted Estimator (2010)](https://www.cambridge.org/core/journals/political-analysis/article/abs/an-introduction-to-the-augmented-inverse-propensity-weighted-estimator/4B1B8301E46F4432C4DCC91FE20780DB)
 - [Estimating controlled direct effects through marginal structural models (2020)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/estimating-controlled-direct-effects-through-marginal-structural-models/699FF00ECEA7F2528A4F2C9F5AD95E01)
+- [The Effect of Political Advertising after Citizen's United: Adjusting for Unmeasured Confounding in Marginal Structural Models (2024)](https://www.mattblackwell.org/research/psfe/)
+- [Constructing Inverse Probability Weights for Marginal Structural Models (2008)](https://academic.oup.com/aje/article-abstract/168/6/656/88658?redirectedFrom=fulltext)
+- [Ensemble learning of inverse probability weights for marginal structural modeling in large observational datasets (2015)](https://pubmed.ncbi.nlm.nih.gov/25316152/)
+- [Robust Estimation of Inverse Probability Weights for Marginal Structural Models (2015)](https://imai.fas.harvard.edu/research/MSM.html)
+- [Optimal balancing of time-dependent confounders for marginal structural models (2021)](https://www.degruyter.com/document/doi/10.1515/jci-2020-0033/html?lang=en&srsltid=AfmBOoqi2gUoKtOlj1KnhFZ1Ducmx8S7Sz6k2CY7QrCC5vzNj7yudWfQ)
+- [Handling time varying confounding in observational research (2017)](https://pubmed.ncbi.nlm.nih.gov/29038130/)
+- [Marginal structural models and causal inference in epidemiology (2000)](https://pubmed.ncbi.nlm.nih.gov/10955408/)
+- [A Primer on Inverse Probability of Treatment Weighting and Marginal Structural Models (2016)](https://journals.sagepub.com/doi/10.1177/2167696815621645)
+- [Taking Uncertainty Seriously: Bayesian Marginal Structural Models for Causal Inference in Political Science (2022)](https://www.andrewheiss.com/research/working-papers/heiss-nafa-bayes-ipw/)
 
 # Difference-in-Differences
+- [Synthetic Difference-in-Differences (2021)](https://www.aeaweb.org/articles?id=10.1257/aer.20190159)
+- [Causal Panel Analysis under Parallel Trends: Lessons from A Large Reanalysis Study (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4490035)
+- [Impact evaluation using Difference-in-Differences (2019)](https://www.emerald.com/insight/content/doi/10.1108/rausp-05-2019-0112/full/html)
+- [What’s trending in difference-in-differences? A synthesis of the recent econometrics literature (2023)](https://www.sciencedirect.com/science/article/abs/pii/S0304407623001318)
+- [Simple Approaches to Nonlinear Difference-in-Differences with Panel Data (2022)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4183726)
 
 # Synthetic Controls
 - [Comparative Politics and the Synthetic Control Method (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12116)
 - [A Bayesian Alternative to Synthetic Control for Comparative Case Studies (2022)](https://www.cambridge.org/core/journals/political-analysis/article/bayesian-alternative-to-synthetic-control-for-comparative-case-studies/C23BD67E4BBBB8C88ADAEAE169696A45)
 - [Generalized Synthetic Control Method: Causal Inference with Interactive Fixed Effects Models (2017)](https://www.cambridge.org/core/journals/political-analysis/article/generalized-synthetic-control-method-causal-inference-with-interactive-fixed-effects-models/B63A8BD7C239DD4141C67DA10CD0E4F3)
+- [Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects (2021)](https://www.aeaweb.org/articles?id=10.1257/jel.20191450)
+- [Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California’s Tobacco Control Program (2010)](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.ap08746)
+- [The Augmented Synthetic Control Method (2021)](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1929245)
+- [On the role of covariates in the synthetic control method (2019)](https://academic.oup.com/ectj/article-abstract/22/2/117/5303851?redirectedFrom=fulltext)
+- [Prediction Intervals for Synthetic Control Methods (2021)](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1979561)
+- [Synthetic controls with imperfect pretreatment fit (2021)](https://onlinelibrary.wiley.com/doi/full/10.3982/QE1596)
+- [On the Properties of the Synthetic Control Estimator with Many Periods and Many Controls (2021)](https://www.tandfonline.com/doi/abs/10.1080/01621459.2021.1965613)
+- [Distributional Synthetic Controls (2023)](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA18260)
+- [Statistical Inference for Average Treatment Effects Estimated by Synthetic Control Methods (2020)](https://www.tandfonline.com/doi/abs/10.1080/01621459.2019.1686986)
 
 # Regression Discontinuity Designs
 - [Interpreting Regression Discontinuity Designs with Multiple Cutoffs (2016)](https://www.journals.uchicago.edu/doi/10.1086/686802)
@@ -123,6 +166,7 @@
 - [Misunderstandings About the Regression Discontinuity Design in the Study of Close Elections (2016)](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-032015-010115)
 - [Geographic Boundaries as Regression Discontinuities (2015)](https://www.cambridge.org/core/journals/political-analysis/article/geographic-boundaries-as-regression-discontinuities/2A59F3077F49AD2B908B531F6E458430)
 - [African Borders as Sources of Natural Experiments Promise and Pitfalls (2015)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/african-borders-as-sources-of-natural-experiments-promise-and-pitfalls/BCEEF369237A7CDA7524760F443CB432)
+- [Regression discontinuity designs: A guide to practice (2008)](https://www.sciencedirect.com/science/article/abs/pii/S0304407607001091)
 
 # Instrumental Variables
 - [Instrumental Variables Estimation in Political Science: A Readers’ Guide (2011)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2010.00477.x)
@@ -130,6 +174,7 @@
 - [Instrumental Variables in Sociology and the Social Sciences (2012)](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-081309-150141)
 - [How Much Should We Trust Instrumental Variable Estimates in Political Science? Practical Advice Based on 67 Replicated Studies (2024)](https://www.cambridge.org/core/journals/political-analysis/article/how-much-should-we-trust-instrumental-variable-estimates-in-political-science-practical-advice-based-on-67-replicated-studies/70A232CA0CD55FE8B97E93543CDD6361)
 - [Beyond LATE: Estimation of the Average Treatment Effect with an Instrumental Variable (2013)](https://www.cambridge.org/core/journals/political-analysis/article/abs/beyond-late-estimation-of-the-average-treatment-effect-with-an-instrumental-variable/604E0803793175CF88329DB34DAA80B3)
+- [Rain, Rain, Go Away: 195 Potential Exclusion-Restriction Violations for Studies Using Weather as an Instrumental Variable (2023)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715610)
 
 # Non-Linear Modeling
 - [Relaxing Assumptions, Improving Inference: Integrating Machine Learning and the Linear Regression(2023](https://www.cambridge.org/core/journals/american-political-science-review/article/relaxing-assumptions-improving-inference-integrating-machine-learning-and-the-linear-regression/52F06EF68EB20670B6CD1919C3C04D25)
@@ -141,6 +186,7 @@
 - [Adaptive Experimental Design: Prospects and Applications in Political Science (2021)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12597)
 - [How Conditioning on Posttreatment Variables Can Ruin Your Experiment and What to Do about It (2018)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12357)
 - [Detecting Spillover Effects: Design and Analysis of Multilevel Experiments (2012)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00592.x)
+- [Understanding and misunderstanding randomized controlled trials (2018)](https://www.sciencedirect.com/science/article/pii/S0277953617307359)
 
 # Double Machine Learning
 - [Using Machine Learning to Test Causal Hypotheses in Conjoint Analysis (2024)](https://www.cambridge.org/core/journals/political-analysis/article/using-machine-learning-to-test-causal-hypotheses-in-conjoint-analysis/DC1ABAF81A5FADDC41D4C6451043E7D6)
@@ -160,6 +206,7 @@
 - [Quantile Regression for Survival Data (2021)](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-042720-020233)
 
 # Non-Interference
+- [Causal Inference with Panel Data under Temporal and Spatial Interference (2021)](https://arxiv.org/abs/2106.15074)
 
 # Non-Linear Treatment Effect Modeling
 - [Bayesian Additive Regression Trees: A Review and Look Forward (2020)](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-031219-041110)
@@ -195,6 +242,16 @@
 - [Corrected Standard Errors with Clustered Data (2020)](https://www.cambridge.org/core/journals/political-analysis/article/abs/corrected-standard-errors-with-clustered-data/F2332E494290725256181955B9BC7428)
 - [How Robust Standard Errors Expose Methodological Problems They Do Not Fix, and What to Do About It (2015)](https://www.cambridge.org/core/journals/political-analysis/article/abs/how-robust-standard-errors-expose-methodological-problems-they-do-not-fix-and-what-to-do-about-it/7E2F393B16FC6BCD6DA8C19D8D5D1F6B)
 - [Bayesian Model Averaging: Theoretical Developments and Practical Applications (2010)](https://www.cambridge.org/core/journals/political-analysis/article/abs/bayesian-model-averaging-theoretical-developments-and-practical-applications/3179D92A3C9353DE7E4674987C33FD28)
+- [An investigation of the false discovery rate and the misinterpretation of p-values (2014)](https://royalsocietypublishing.org/doi/10.1098/rsos.140216)
+- [Why Most Published Research Findings Are False (2005)](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
+- [Statistical Inference for Apparent Populations (1995)](https://www.jstor.org/stable/271073)
+- [A Conceptual Introduction to Bayesian Model Averaging (2020)](https://journals.sagepub.com/doi/full/10.1177/2515245919898657)
+- [What to believe: Bayesian methods for data analysis (2010)](https://www.sciencedirect.com/science/article/abs/pii/S1364661310000926#:~:text=The%20essential%20premise%20of%20the,are%20available%20to%20the%20reasoner.)
+- [The Bayesian New Statistics: Hypothesis testing, estimation, meta-analysis, and power analysis from a Bayesian perspective (2018)](https://link.springer.com/article/10.3758/s13423-016-1221-4)
+- [A Gentle Introduction to Bayesian Analysis: Applications to Developmental Research (2014)](https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.12169)
+- [Bayesian statistics and modelling (2021)](https://www.nature.com/articles/s43586-020-00001-2)
+- [Bayesian Inference for Comparative Research (1994)](https://www.jstor.org/stable/2944713)
+- [The Insignificance of Null Hypothesis Significance Testing (1999)](https://journals.sagepub.com/doi/10.1177/106591299905200309)
 
 # Survival Analysis
 - [Duration Models for Repeated Events (2002)](https://www.journals.uchicago.edu/doi/10.1111/1468-2508.00163)
