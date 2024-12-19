@@ -139,6 +139,8 @@
 - [A Primer on Inverse Probability of Treatment Weighting and Marginal Structural Models (2016)](https://journals.sagepub.com/doi/10.1177/2167696815621645)
 - [Taking Uncertainty Seriously: Bayesian Marginal Structural Models for Causal Inference in Political Science (2022)](https://www.andrewheiss.com/research/working-papers/heiss-nafa-bayes-ipw/)
 
+# Structural Nested Mean Models
+
 # Difference-in-Differences
 - [Synthetic Difference-in-Differences (2021)](https://www.aeaweb.org/articles?id=10.1257/aer.20190159)
 - [Causal Panel Analysis under Parallel Trends: Lessons from A Large Reanalysis Study (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4490035)
@@ -176,9 +178,6 @@
 - [Beyond LATE: Estimation of the Average Treatment Effect with an Instrumental Variable (2013)](https://www.cambridge.org/core/journals/political-analysis/article/abs/beyond-late-estimation-of-the-average-treatment-effect-with-an-instrumental-variable/604E0803793175CF88329DB34DAA80B3)
 - [Rain, Rain, Go Away: 195 Potential Exclusion-Restriction Violations for Studies Using Weather as an Instrumental Variable (2023)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715610)
 
-# Non-Linear Modeling
-- [Relaxing Assumptions, Improving Inference: Integrating Machine Learning and the Linear Regression(2023](https://www.cambridge.org/core/journals/american-political-science-review/article/relaxing-assumptions-improving-inference-integrating-machine-learning-and-the-linear-regression/52F06EF68EB20670B6CD1919C3C04D25)
-
 # Experimental Design
 - [When Natural Experiments Are Neither Natural nor Experiments (2012)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/when-natural-experiments-are-neither-natural-nor-experiments/E8A67829C2EEBC429CDD671B4C9313F9)
 - [Are Survey Experiments Externally Valid? (2010)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/are-survey-experiments-externally-valid/7233B1EF4DD36030A0BC19380AEBCDFA)
@@ -188,7 +187,7 @@
 - [Detecting Spillover Effects: Design and Analysis of Multilevel Experiments (2012)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00592.x)
 - [Understanding and misunderstanding randomized controlled trials (2018)](https://www.sciencedirect.com/science/article/pii/S0277953617307359)
 
-# Double Machine Learning
+# Double Machine Learning (Causal Discovery, Heterogenous Treatment Effects, etc.)
 - [Using Machine Learning to Test Causal Hypotheses in Conjoint Analysis (2024)](https://www.cambridge.org/core/journals/political-analysis/article/using-machine-learning-to-test-causal-hypotheses-in-conjoint-analysis/DC1ABAF81A5FADDC41D4C6451043E7D6)
 - [Estimating Heterogeneous Treatment Effects and the Effects of Heterogeneous Treatments with Ensemble Methods (2017)](https://www.cambridge.org/core/journals/political-analysis/article/abs/estimating-heterogeneous-treatment-effects-and-the-effects-of-heterogeneous-treatments-with-ensemble-methods/C7E3EA00D0AD83429CBE73F4F0C6652C)
 - [Retrospective Causal Inference with Machine Learning Ensembles: An Application to Anti-recidivism Policies in Colombia (2016)](https://www.cambridge.org/core/journals/political-analysis/article/abs/retrospective-causal-inference-with-machine-learning-ensembles-an-application-to-antirecidivism-policies-in-colombia/B27477770599A4CE0ACB9204685EA95B)
@@ -208,12 +207,13 @@
 # Non-Interference
 - [Causal Inference with Panel Data under Temporal and Spatial Interference (2021)](https://arxiv.org/abs/2106.15074)
 
-# Non-Linear Treatment Effect Modeling
+# Non-Linear Treatment Effect Modeling (Interaction Terms, Gaussian Processes, GAMs, Machine Learning Solutions, etc.)
 - [Bayesian Additive Regression Trees: A Review and Look Forward (2020)](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-031219-041110)
 - [Reducing Model Misspecification and Bias in the Estimation of Interactions (2022)](https://www.cambridge.org/core/journals/political-analysis/article/abs/reducing-model-misspecification-and-bias-in-the-estimation-of-interactions/DE5AB7EB87CA53142448D7F55D6517DB)
 - [The Consequences of Model Misspecification for the Estimation of Nonlinear Interaction Effects (2023)](https://www.cambridge.org/core/journals/political-analysis/article/consequences-of-model-misspecification-for-the-estimation-of-nonlinear-interaction-effects/2B357A2A30FA777B729ACFA252797D3F)
 - [How Much Should We Trust Estimates from Multiplicative Interaction Models? Simple Tools to Improve Empirical Practice (2019)](https://www.cambridge.org/core/journals/political-analysis/article/how-much-should-we-trust-estimates-from-multiplicative-interaction-models-simple-tools-to-improve-empirical-practice/D8CAACB473F9B1EE256F43B38E458706)
 - [Causal interaction and effect modification: same model, different concepts (2021)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/causal-interaction-and-effect-modification-same-model-different-concepts/1036031FB5777BC435934E3684685A49)
+- [Relaxing Assumptions, Improving Inference: Integrating Machine Learning and the Linear Regression (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/relaxing-assumptions-improving-inference-integrating-machine-learning-and-the-linear-regression/52F06EF68EB20670B6CD1919C3C04D25)
 
 # Statistical Modeling
 - [Inference with Extremes: Accounting for Extreme Values in Count Regression Models (2024)](https://academic.oup.com/isq/article/68/4/sqae137/7889362)
@@ -280,3 +280,5 @@
 - [Machine Learning for Sociology (2019)](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-073117-041106)
 - [What Can We Learn from Predictive Modeling? (2017)](https://www.cambridge.org/core/journals/political-analysis/article/abs/what-can-we-learn-from-predictive-modeling/DA6161B358A86146B2DB3E5025461554)
 - [The role of hyperparameters in machine learning models and how to tune them (2024)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/role-of-hyperparameters-in-machine-learning-models-and-how-to-tune-them/27296C04CF5935C55327F11BF4017371)
+
+# Time Series
