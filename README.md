@@ -22,6 +22,15 @@
 - [Endogenous Selection Bias: The Problem of Conditioning on a Collider Variable (2014)](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-071913-043455)
 - [Causal Inference in the Social Sciences (2024)](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-033121-114601)
 - [Effects of Causes and Causes of Effects (2022)](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-070121-061120)
+- [Causal Decision Making and Causal Effect Estimation Are Not the Same... and Why It Matters (2021)](https://arxiv.org/abs/2104.04103)
+- [Recent Developments in Partial Identification (2023)](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-051520-021124)
+- [Causal Inference About the Effects of Interventions From Observational Studies in Medical Journals (2024)](https://jamanetwork.com/journals/jama/fullarticle/2818746)
+- [Illustrating bias due to conditioning on a collider (2010)](https://academic.oup.com/ije/article-abstract/39/2/417/680407?redirectedFrom=fulltext)
+- [Revisiting Overadjustment Bias (2021)](https://pubmed.ncbi.nlm.nih.gov/34172691/)
+- [Arguing for Covariate Balance (2024)](https://osf.io/preprints/osf/nsxzb)
+- [Methods in causal inference. Part 1: causal diagrams and confounding (2024)](https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/methods-in-causal-inference-part-1-causal-diagrams-and-confounding/E734F72109F1BE99836E268DF3AA0359)
+- [Methods in causal inference. Part 3: measurement error and external validity threats (2024)](https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/methods-in-causal-inference-part-3-measurement-error-and-external-validity-threats/4D35FFDECF32B2EFF7557EC26075175F)
+- [Endogenous Selection Bias: The Problem of Conditioning on a Collider Variable (2014)](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-071913-043455#:~:text=Endogenous%20selection%20bias%20can%20result,even%20a%20pre%2Dtreatment%20variable.)
 
 # Regression Adjustment
 - [Does Regression Produce Representative Estimates of Causal Effects? (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12185)
@@ -45,6 +54,8 @@
 - [Marginal Effects—Quantifying the Effect of Changes in Risk Factors in Logistic Regression Models (2019)](https://jamanetwork.com/journals/jama/article-abstract/2728169)
 - [Marginal Effects in Interaction Models: Determining and Controlling the False Positive Rate (2018)](https://journals.sagepub.com/doi/abs/10.1177/0010414017730080)
 - [The Causal Cookbook: Recipes for Propensity Scores, G-Computation, and Doubly Robust Standardization (2024)](https://journals.sagepub.com/doi/10.1177/25152459241236149)
+- [An Odds Ratio Paradox (2024)](https://ngreifer.github.io/blog/an-odds-ratio-paradox/)
+- [Unadjusted Odds Ratios are Conditional (2020)](https://www.fharrell.com/post/marg/)
 
 # Sensivity Analysis
 - [From “Is It Unconfounded?” to “How Much Confounding Would It Take?”: Applying the Sensitivity-Based Approach to Assess Causes of Support for Peace in Colombia (2023)](https://www.journals.uchicago.edu/doi/10.1086/723995)
@@ -90,6 +101,7 @@
 - [Fixed and random effects models: making an informed choice (2020)](https://link.springer.com/article/10.1007/s11135-018-0802-x)
 - [When Should We Use Unit Fixed Effects Regression Models for Causal Inference with Longitudinal Data? (2019)](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12417)
 - [Causal Panel Analysis under Parallel Trends: Lessons from A Large Reanalysis Study (2024)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4490035)
+- [Confidence intervals of treatment effects in panel data models with interactive fixed effects (2024)](https://www.sciencedirect.com/science/article/abs/pii/S0304407624000307)
 
 # Hierarchical Data Models
 - [How Many Countries for Multilevel Modeling? A Comparison of Frequentist and Bayesian Approaches (2013)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12001)
@@ -121,6 +133,10 @@
 - [Panel Data Visualization in R (panelView) and Stata (panelview) (2023)](https://www.jstatsoft.org/article/view/v107i07)
 - [These Are Not the Effects You Are Looking for: Causality and the Within-/Between-Persons Distinction in Longitudinal Data Analysis (2023)](https://journals.sagepub.com/doi/10.1177/25152459221140842)
 - [Causal Inference with Time-Series Cross-Sectional Data: A Reflection (2023)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3979613)
+- [Sequential Deconfounding for Causal Inference with Unobserved Confounders (2021)](https://arxiv.org/abs/2104.09323)
+- [Causal models for longitudinal and panel data: a survey (2024)](https://academic.oup.com/ectj/article-abstract/27/3/C1/7701402?redirectedFrom=fulltext)
+- [Studying Continuous, Time-varying, and/or Complex Exposures Using Longitudinal Modified Treatment Policies (2024)](https://pubmed.ncbi.nlm.nih.gov/39109818/)
+- [Methods in causal inference. Part 2: Interaction, mediation, and time-varying treatments (2024)](https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/methods-in-causal-inference-part-2-interaction-mediation-and-timevarying-treatments/D7FD95D3ED64FE0FBBEC37AC6CEAFBC1)
 
 # Inverse Probability Weighting and Marginal Structural Models
 - [How to Make Causal Inferences with Time-Series Cross-Sectional Data under Selection on Observables (2018)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/how-to-make-causal-inferences-with-timeseries-crosssectional-data-under-selection-on-observables/498BE04E5AF9802EC4D33DD7A4016584)
@@ -147,6 +163,7 @@
 - [Impact evaluation using Difference-in-Differences (2019)](https://www.emerald.com/insight/content/doi/10.1108/rausp-05-2019-0112/full/html)
 - [What’s trending in difference-in-differences? A synthesis of the recent econometrics literature (2023)](https://www.sciencedirect.com/science/article/abs/pii/S0304407623001318)
 - [Simple Approaches to Nonlinear Difference-in-Differences with Panel Data (2022)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4183726)
+- [Advances in Difference-in-differences Methods for Policy Evaluation Research (2024)](https://pubmed.ncbi.nlm.nih.gov/38968376/)
 
 # Synthetic Controls
 - [Comparative Politics and the Synthetic Control Method (2015)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12116)
@@ -169,6 +186,7 @@
 - [Geographic Boundaries as Regression Discontinuities (2015)](https://www.cambridge.org/core/journals/political-analysis/article/geographic-boundaries-as-regression-discontinuities/2A59F3077F49AD2B908B531F6E458430)
 - [African Borders as Sources of Natural Experiments Promise and Pitfalls (2015)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/african-borders-as-sources-of-natural-experiments-promise-and-pitfalls/BCEEF369237A7CDA7524760F443CB432)
 - [Regression discontinuity designs: A guide to practice (2008)](https://www.sciencedirect.com/science/article/abs/pii/S0304407607001091)
+- [A Practical Introduction to Regression Discontinuity Designs (2019)](https://www.cambridge.org/core/elements/abs/practical-introduction-to-regression-discontinuity-designs/F04907129D5C1B823E3DB19C31CAB905)
 
 # Instrumental Variables
 - [Instrumental Variables Estimation in Political Science: A Readers’ Guide (2011)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2010.00477.x)
@@ -177,6 +195,7 @@
 - [How Much Should We Trust Instrumental Variable Estimates in Political Science? Practical Advice Based on 67 Replicated Studies (2024)](https://www.cambridge.org/core/journals/political-analysis/article/how-much-should-we-trust-instrumental-variable-estimates-in-political-science-practical-advice-based-on-67-replicated-studies/70A232CA0CD55FE8B97E93543CDD6361)
 - [Beyond LATE: Estimation of the Average Treatment Effect with an Instrumental Variable (2013)](https://www.cambridge.org/core/journals/political-analysis/article/abs/beyond-late-estimation-of-the-average-treatment-effect-with-an-instrumental-variable/604E0803793175CF88329DB34DAA80B3)
 - [Rain, Rain, Go Away: 195 Potential Exclusion-Restriction Violations for Studies Using Weather as an Instrumental Variable (2023)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715610)
+- [Going beyond randomised controlled trials to assess treatment effect heterogeneity across target populations (2024)](https://pubmed.ncbi.nlm.nih.gov/39327529/)
 
 # Experimental Design
 - [When Natural Experiments Are Neither Natural nor Experiments (2012)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/when-natural-experiments-are-neither-natural-nor-experiments/E8A67829C2EEBC429CDD671B4C9313F9)
@@ -186,26 +205,35 @@
 - [How Conditioning on Posttreatment Variables Can Ruin Your Experiment and What to Do about It (2018)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12357)
 - [Detecting Spillover Effects: Design and Analysis of Multilevel Experiments (2012)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2012.00592.x)
 - [Understanding and misunderstanding randomized controlled trials (2018)](https://www.sciencedirect.com/science/article/pii/S0277953617307359)
+- [A New Look at P Values for Randomized Clinical Trials (2024)](https://pubmed.ncbi.nlm.nih.gov/38320512/)
+- [Methods in causal inference. Part 4: confounding in experiments (2024)](https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/methods-in-causal-inference-part-4-confounding-in-experiments/570D60A5FCCA007B55427384818C368E)
 
 # Double Machine Learning (Causal Discovery, Heterogenous Treatment Effects, etc.)
 - [Using Machine Learning to Test Causal Hypotheses in Conjoint Analysis (2024)](https://www.cambridge.org/core/journals/political-analysis/article/using-machine-learning-to-test-causal-hypotheses-in-conjoint-analysis/DC1ABAF81A5FADDC41D4C6451043E7D6)
 - [Estimating Heterogeneous Treatment Effects and the Effects of Heterogeneous Treatments with Ensemble Methods (2017)](https://www.cambridge.org/core/journals/political-analysis/article/abs/estimating-heterogeneous-treatment-effects-and-the-effects-of-heterogeneous-treatments-with-ensemble-methods/C7E3EA00D0AD83429CBE73F4F0C6652C)
 - [Retrospective Causal Inference with Machine Learning Ensembles: An Application to Anti-recidivism Policies in Colombia (2016)](https://www.cambridge.org/core/journals/political-analysis/article/abs/retrospective-causal-inference-with-machine-learning-ensembles-an-application-to-antirecidivism-policies-in-colombia/B27477770599A4CE0ACB9204685EA95B)
-
-# Mediation Analysis
-- [Causal Mechanisms: Yes, But… (2010)](https://journals.sagepub.com/doi/abs/10.1177/0010414010376911)
+- [Using Machine Learning to Individualize Treatment Effect Estimation: Challenges and Opportunities (2024)](https://pubmed.ncbi.nlm.nih.gov/38124482/)
+- [Generalizability of heterogeneous treatment effect estimates across samples (2024)](https://www.pnas.org/doi/10.1073/pnas.1808083115)
+- [Causal machine learning for predicting treatment outcomes (2024)](https://www.nature.com/articles/s41591-024-02902-1)
+- [The value added of machine learning to causal inference: evidence from revisited studies (2024)](https://academic.oup.com/ectj/article/27/2/213/7602388)
+- [Machine learning in the estimation of causal effects: targeted minimum loss-based estimation and double/debiased machine learning (2020)](https://academic.oup.com/biostatistics/article/21/2/353/5631845)
+- [Long Story Short: Omitted Variable Bias in Causal Machine Learning (2021)](https://arxiv.org/abs/2112.13398)
+- [Causal inference and data fusion in econometrics (2023)](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utad008/7075871?redirectedFrom=fulltext)
 
 # Missing Data
 - [What to Do about Missing Values in Time-Series Cross-Section Data (2010)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2010.00447.x)
 - [Missing Data Assumptions (2021)](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-040720-031104)
 - [Choosing Imputation Models (2022)](https://www.cambridge.org/core/journals/political-analysis/article/abs/choosing-imputation-models/C5568FEA88F1B8467AE9F0A8BD6F8D10)
 - [How Multiple Imputation Makes a Difference (2016)](https://www.cambridge.org/core/journals/political-analysis/article/how-multiple-imputation-makes-a-difference/8C6616B679EF8F3EB0041B1BC88EEBB9)
+- [Multiple imputation for longitudinal data: A tutorial (2024)](https://arxiv.org/pdf/2404.06967)
+- [The “Why” behind including “Y” in your imputation model (2024)](https://journals.sagepub.com/doi/10.1177/09622802241244608)
 
 # Non-Average Treatment Effects
 - [Quantile Regression for Survival Data (2021)](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-042720-020233)
 
 # Non-Interference
 - [Causal Inference with Panel Data under Temporal and Spatial Interference (2021)](https://arxiv.org/abs/2106.15074)
+- [Instead of avoiding spillovers, you can model them (2018)](https://declaredesign.org/blog/posts/modelling-spillovers.html)
 
 # Non-Linear Treatment Effect Modeling (Interaction Terms, Gaussian Processes, GAMs, Machine Learning Solutions, etc.)
 - [Bayesian Additive Regression Trees: A Review and Look Forward (2020)](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-031219-041110)
@@ -214,15 +242,24 @@
 - [How Much Should We Trust Estimates from Multiplicative Interaction Models? Simple Tools to Improve Empirical Practice (2019)](https://www.cambridge.org/core/journals/political-analysis/article/how-much-should-we-trust-estimates-from-multiplicative-interaction-models-simple-tools-to-improve-empirical-practice/D8CAACB473F9B1EE256F43B38E458706)
 - [Causal interaction and effect modification: same model, different concepts (2021)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/causal-interaction-and-effect-modification-same-model-different-concepts/1036031FB5777BC435934E3684685A49)
 - [Relaxing Assumptions, Improving Inference: Integrating Machine Learning and the Linear Regression (2023)](https://www.cambridge.org/core/journals/american-political-science-review/article/relaxing-assumptions-improving-inference-integrating-machine-learning-and-the-linear-regression/52F06EF68EB20670B6CD1919C3C04D25)
+- [Understanding linear interaction analysis with causal graphs (2024)](https://pubmed.ncbi.nlm.nih.gov/39530432/)
+- [Methods in causal inference. Part 2: Interaction, mediation, and time-varying treatments (2024)](https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/methods-in-causal-inference-part-2-interaction-mediation-and-timevarying-treatments/D7FD95D3ED64FE0FBBEC37AC6CEAFBC1)
 
 # Statistical Modeling
 - [Inference with Extremes: Accounting for Extreme Values in Count Regression Models (2024)](https://academic.oup.com/isq/article/68/4/sqae137/7889362)
 - [Ordered Beta Regression: A Parsimonious, Well-Fitting Model for Continuous Data with Lower and Upper Bounds (2023)](https://www.cambridge.org/core/journals/political-analysis/article/ordered-beta-regression-a-parsimonious-wellfitting-model-for-continuous-data-with-lower-and-upper-bounds/89F4141DA16D4FC217809B5EB45EEE83)
 - [Dealing with Separation in Logistic Regression Models (2016)](https://www.cambridge.org/core/journals/political-analysis/article/abs/dealing-with-separation-in-logistic-regression-models/E2F30195EFFD5F79A9B27ACA5107922F)
+- [Logs with Zeros? Some Problems and Solutions (2024)](https://academic.oup.com/qje/article-abstract/139/2/891/7473710)
+- [Contamination Bias in Linear Regressions (2024)](https://www.aeaweb.org/articles?id=10.1257/aer.20221116)
+- [Understanding Contamination Bias (2023)](https://matteocourthoud.github.io/post/contamination_bias/)
+- [Statistical Models and Shoe Leather (1991)](https://www.jstor.org/stable/270939)
 
 # Mediation Analysis
 - [Explaining Causal Findings Without Bias: Detecting and Assessing Direct Effects (2016)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/explaining-causal-findings-without-bias-detecting-and-assessing-direct-effects/D11BEB8666E913A0DCD7D0B9872F5D11)
 - [Unpacking the Black Box of Causality: Learning about Causal Mechanisms from Experimental and Observational Studies (2011)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/unpacking-the-black-box-of-causality-learning-about-causal-mechanisms-from-experimental-and-observational-studies/9D2ACE9F784B99A30216D216FBF88553)
+- [Causal Mechanisms: Yes, But… (2010)](https://journals.sagepub.com/doi/abs/10.1177/0010414010376911)
+- [Practical challenges in mediation analysis: a guide for applied researchers (2024)](https://link.springer.com/article/10.1007/s10742-024-00327-4)
+- [Methods in causal inference. Part 2: Interaction, mediation, and time-varying treatments (2024)](https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/methods-in-causal-inference-part-2-interaction-mediation-and-timevarying-treatments/D7FD95D3ED64FE0FBBEC37AC6CEAFBC1)
 
 # Simulation
 - [How Do We Know What We Know? Learning from Monte Carlo Simulations (2024)](https://www.journals.uchicago.edu/doi/10.1086/726934)
@@ -252,6 +289,23 @@
 - [Bayesian statistics and modelling (2021)](https://www.nature.com/articles/s43586-020-00001-2)
 - [Bayesian Inference for Comparative Research (1994)](https://www.jstor.org/stable/2944713)
 - [The Insignificance of Null Hypothesis Significance Testing (1999)](https://journals.sagepub.com/doi/10.1177/106591299905200309)
+- [The Difference Between “Significant” and “Not Significant” is not Itself Statistically Significant (2006)](https://www.tandfonline.com/doi/abs/10.1198/000313006X152649)
+- [Arguing for a Negligible Effect (2014)](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12102)
+- [Equivalence Testing for Psychological Research: A Tutorial (2018)](https://journals.sagepub.com/doi/10.1177/2515245918770963)
+- [Power to Detect What? Considerations for Planning and Evaluating Sample Size (2024)](https://journals.sagepub.com/doi/10.1177/10888683241228328)
+- [Causal analyses of existing databases: no power calculations required (2022)](https://pubmed.ncbi.nlm.nih.gov/34461211/)
+- [An Equivalence Approach to Balance and Placebo Tests (2018)](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12387)
+- [Equivalence Tests: A Practical Primer for t Tests, Correlations, and Meta-Analyses (2017)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5502906/)
+- [Testing What Matters (If You Must Test at All): A Context-Driven Approach to Substantive and Statistical Significance (2015)](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12149)
+- [Bayesian causal inference: a critical review (2023)](https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0153)
+- [Empirical Bayes for the Reluctant Frequentist (2024)](https://arxiv.org/abs/2404.03422)
+- [Power Rules: Practical Statistical Power Calculations (2024)](http://www.carlislerainey.com/power-rules/power-rules.pdf)
+- [Adjustment for unmeasured confounding through informative priors for the confounder-outcome relation (2018)](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-018-0634-3)
+- [Frequentist statistical inference without repeated sampling (2022)](https://link.springer.com/article/10.1007/s11229-022-03560-x)
+- [Targeted Maximum Likelihood Estimation for Causal Inference in Observational Studies (2017)](https://academic.oup.com/aje/article-abstract/185/1/65/2662306?redirectedFrom=fulltext)
+- [Understanding p-values: Different interpretations can be thought of not as different “philosophies” but as different forms of averaging (2024)](https://statmodeling.stat.columbia.edu/2024/12/02/understanding-p-values-different-interpretations-can-be-thought-of-not-as-different-philosophies-but-as-different-forms-of-averaging/)
+- [The fallacy of placing confidence in confidence intervals (2016)](https://link.springer.com/article/10.3758/s13423-015-0947-8)
+- [Why you are not allowed to say that your 95% confidence interval contains the true parameter with a probability of 95% (2024)](https://www.the100.ci/2024/12/05/why-you-are-not-allowed-to-say-that-your-95-confidence-interval-contains-the-true-parameter-with-a-probability-of-95/)
 
 # Survival Analysis
 - [Duration Models for Repeated Events (2002)](https://www.journals.uchicago.edu/doi/10.1111/1468-2508.00163)
@@ -273,6 +327,7 @@
 - [Surviving Phases: Introducing Multistate Survival Models (2016)](https://www.cambridge.org/core/journals/political-analysis/article/abs/surviving-phases-introducing-multistate-survival-models/98066AA89777BED49744D8CC752B686D)
 - [Analyzing the Robustness of Semi-Parametric Duration Models for the Study of Repeated Events (2014)](https://www.cambridge.org/core/journals/political-analysis/article/abs/analyzing-the-robustness-of-semiparametric-duration-models-for-the-study-of-repeated-events/51894DE50E5B5A3CA0FFBBB2224D91DF)
 - [Simulating Duration Data for the Cox Model (2019)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/abs/simulating-duration-data-for-the-cox-model/1945D7548766E76FB31C6C833976822E)
+- [Time-varying covariates and coefficients in Cox regression models (2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6015946/)
 
 # Predictive Machine Learning
 - [Machine Learning Methods That Economists Should Know About (2019)](https://www.annualreviews.org/content/journals/10.1146/annurev-economics-080217-053433)
@@ -280,5 +335,8 @@
 - [Machine Learning for Sociology (2019)](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-073117-041106)
 - [What Can We Learn from Predictive Modeling? (2017)](https://www.cambridge.org/core/journals/political-analysis/article/abs/what-can-we-learn-from-predictive-modeling/DA6161B358A86146B2DB3E5025461554)
 - [The role of hyperparameters in machine learning models and how to tune them (2024)](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/role-of-hyperparameters-in-machine-learning-models-and-how-to-tune-them/27296C04CF5935C55327F11BF4017371)
+- [Forecast evaluation for data scientists: common pitfalls and best practices (2023)](https://link.springer.com/article/10.1007/s10618-022-00894-5)
 
 # Time Series
+- [Introduction to Time Series Analysis for Organizational Research: Methods for Longitudinal Analyses (2016)](https://journals.sagepub.com/doi/10.1177/1094428116668035)
+- [Causal inference for time series analysis: problems, methods and evaluation (2021)](https://link.springer.com/article/10.1007/s10115-021-01621-0)
