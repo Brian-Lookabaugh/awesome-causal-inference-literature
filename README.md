@@ -31,6 +31,7 @@
 - [Methods in causal inference. Part 1: causal diagrams and confounding (2024)](https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/methods-in-causal-inference-part-1-causal-diagrams-and-confounding/E734F72109F1BE99836E268DF3AA0359)
 - [Methods in causal inference. Part 3: measurement error and external validity threats (2024)](https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/methods-in-causal-inference-part-3-measurement-error-and-external-validity-threats/4D35FFDECF32B2EFF7557EC26075175F)
 - [Endogenous Selection Bias: The Problem of Conditioning on a Collider Variable (2014)](https://www.annualreviews.org/content/journals/10.1146/annurev-soc-071913-043455#:~:text=Endogenous%20selection%20bias%20can%20result,even%20a%20pre%2Dtreatment%20variable.)
+- [‘Sing Me a Song with Social Significance’: The (Mis)Use of Statistical Significance Testing in European Sociological Research (2017)](https://academic.oup.com/esr/article/33/1/1/2739015)
 
 # Regression Adjustment
 - [Does Regression Produce Representative Estimates of Causal Effects? (2016)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12185)
@@ -219,6 +220,24 @@
 - [Machine learning in the estimation of causal effects: targeted minimum loss-based estimation and double/debiased machine learning (2020)](https://academic.oup.com/biostatistics/article/21/2/353/5631845)
 - [Long Story Short: Omitted Variable Bias in Causal Machine Learning (2021)](https://arxiv.org/abs/2112.13398)
 - [Causal inference and data fusion in econometrics (2023)](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utad008/7075871?redirectedFrom=fulltext)
+- [Matrix Completion Methods for Causal Panel Data Models (2018)](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1891924)
+- [Causal discovery and inference: concepts and recent methodological advances (2016)](https://applied-informatics-j.springeropen.com/articles/10.1186/s40535-016-0018-x)
+- [Conformal Inference of Counterfactuals and Individual Treatment Effects (2020)](https://arxiv.org/abs/2006.06138)
+- [Nonparametric estimation of causal heterogeneity under high-dimensional confounding (2019)](https://arxiv.org/abs/1908.08779)
+- [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests (2018)](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1319839)
+- [Heterogeneous Treatment Effects in Impact Evaluation (2015)](https://www.aeaweb.org/articles?id=10.1257/aer.p20151015)
+- [Estimating dynamic treatment effects in event studies with heterogeneous treatment effects (2021)](https://www.sciencedirect.com/science/article/abs/pii/S030440762030378X)
+- [Debiased machine learning of conditional average treatment effects and other causal functions (2021)](https://academic.oup.com/ectj/article-abstract/24/2/264/5899048?redirectedFrom=fulltext)
+- [Modified Causal Forests for Estimating Heterogeneous Causal Effects (2018)](https://arxiv.org/abs/1812.09487)
+- [Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning (2017)](https://arxiv.org/abs/1706.03461)
+- [Machine learning estimation of heterogeneous causal effects: Empirical Monte Carlo evidence (2021)](https://academic.oup.com/ectj/article-abstract/24/1/134/5854188)
+- [Towards optimal doubly robust estimation of heterogeneous causal effects (2023)](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-17/issue-2/Towards-optimal-doubly-robust-estimation-of-heterogeneous-causal-effects/10.1214/23-EJS2157.full)
+- [Estimation of Conditional Average Treatment Effects With High-Dimensional Data (2021)](https://www.tandfonline.com/doi/full/10.1080/07350015.2020.1811102)
+- [Nonparametric Estimation of Heterogeneous Treatment Effects: From Theory to Learning Algorithms (2021)](https://arxiv.org/abs/2101.10943)
+- [Generic Machine Learning Inference on Heterogeneous Treatment Effects in Randomized Experiments, with an Application to Immunization in India (2018)](https://www.nber.org/papers/w24678)
+- [The Sorted Effects Method: Discovering Heterogeneous Effects Beyond Their Averages (2018)](https://onlinelibrary.wiley.com/doi/abs/10.3982/ecta14415)
+- [Recursive partitioning for heterogeneous causal effects (2016)](https://www.pnas.org/doi/10.1073/pnas.1510489113)
+- [Machine Learning in Policy Evaluation: New Tools for Causal Inference (2019)](https://oxfordre.com/economics/display/10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-256)
 
 # Missing Data
 - [What to Do about Missing Values in Time-Series Cross-Section Data (2010)](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2010.00447.x)
@@ -230,6 +249,7 @@
 
 # Non-Average Treatment Effects
 - [Quantile Regression for Survival Data (2021)](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-042720-020233)
+- [Causal Quartets: Different Ways to Attain the Same Average Treatment Effect (2023)](https://www.tandfonline.com/doi/full/10.1080/00031305.2023.2267597)
 
 # Non-Interference
 - [Causal Inference with Panel Data under Temporal and Spatial Interference (2021)](https://arxiv.org/abs/2106.15074)
@@ -263,6 +283,10 @@
 
 # Simulation
 - [How Do We Know What We Know? Learning from Monte Carlo Simulations (2024)](https://www.journals.uchicago.edu/doi/10.1086/726934)
+
+# Spatial Causal Inference
+- [Spatial Causality: A Systematic Review on Spatial Causal Inference (2023)](https://onlinelibrary.wiley.com/doi/10.1111/gean.12312)
+- [Causal Inference with Spatio-Temporal Data: Estimating the Effects of Airstrikes on Insurgent Violence in Iraq (2022)](https://imai.fas.harvard.edu/research/spatiotempo.html)
 
 # Bayesian/Statistical Inference
 - [Mixing Methods: A Bayesian Approach (2015)](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/mixing-methods-a-bayesian-approach/BB1DFC2FDA3D7F2224F3341042FEA5F4)
@@ -306,6 +330,8 @@
 - [Understanding p-values: Different interpretations can be thought of not as different “philosophies” but as different forms of averaging (2024)](https://statmodeling.stat.columbia.edu/2024/12/02/understanding-p-values-different-interpretations-can-be-thought-of-not-as-different-philosophies-but-as-different-forms-of-averaging/)
 - [The fallacy of placing confidence in confidence intervals (2016)](https://link.springer.com/article/10.3758/s13423-015-0947-8)
 - [Why you are not allowed to say that your 95% confidence interval contains the true parameter with a probability of 95% (2024)](https://www.the100.ci/2024/12/05/why-you-are-not-allowed-to-say-that-your-95-confidence-interval-contains-the-true-parameter-with-a-probability-of-95/)
+- [What is a standard error? (And how should we compute it?) (2023)](https://www.sciencedirect.com/science/article/abs/pii/S0304407623002336)
+- [When Should You Adjust Standard Errors for Clustering? (2023)](https://academic.oup.com/qje/article/138/1/1/6750017)
 
 # Survival Analysis
 - [Duration Models for Repeated Events (2002)](https://www.journals.uchicago.edu/doi/10.1111/1468-2508.00163)
