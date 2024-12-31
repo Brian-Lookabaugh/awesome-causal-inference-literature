@@ -67,6 +67,7 @@
 - [An introduction to sensitivity analysis for unobserved confounding in nonexperimental prevention research (2013)](https://pubmed.ncbi.nlm.nih.gov/23408282/)
 - [Sensitivity analysis without assumptions (2016)](https://pubmed.ncbi.nlm.nih.gov/26841057/)
 - [A Selection Bias Approach to Sensitivity Analysis for Causal Effects (2014)](https://www.cambridge.org/core/journals/political-analysis/article/selection-bias-approach-to-sensitivity-analysis-for-causal-effects/788C169FAF5482452566811136D4F9B4)
+- [Sensitivity Analysis for Quantiles of Hidden Biases in Matched Observational Studies (2024)](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2441527)
 
 # Matching/Propensity Score Methods
 - [Matching Methods for Causal Inference with Time-Series Cross-Sectional Data (2023)](https://onlinelibrary.wiley.com/doi/10.1111/ajps.12685)
